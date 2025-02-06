@@ -1,0 +1,11 @@
+AddLeft 1
+AddLeft I
+DeleteRight
+s2Full
+DeleteLeft
+s2Empty
+AddRight 3
+AddRight 6
+AddLeft I
+AddRight 1
+Endee
